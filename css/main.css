@@ -1,8 +1,9 @@
 
-.one{
-	width: 100px;
+.container{
+	width: 300px;
 	background-color: black;
 	margin: 0 auto;
+	min-height: 500px;
 
 }
 
@@ -11,4 +12,23 @@
 	height: 200px;
 	background-color: black;
 	margin: 0 auto;
+}
+.circle{
+	width: 150px;
+	height: 150px;
+	background-color: #ccc;
+	border-radius: 50%;
+	margin: 10px auto;
+}
+.red{
+	background-color: red;
+}
+.orange{
+	background-color: orange;
+}
+.green{
+	background-color: green;
+}
+.off{
+	background-color: #ccc;
 }
